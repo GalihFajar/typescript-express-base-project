@@ -1,0 +1,4 @@
+node_modules
+.prettierrc
+adding_gitignore_ignorethis.sh
+.vscode/
